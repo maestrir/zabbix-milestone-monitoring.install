@@ -1,9 +1,9 @@
 {
   "name": "MilestoneMonitor",
   "channel": "test",
-  "version": "1.2.2",
-  "date": "2026-11-22",
-  "zip": "MilestoneMonitor-1.2.2.zip",
-  "size": 59715,
-  "sha256": "105819CF8B94E656643EEAE8F4A421D3AA9F0681E7FB65CBBC8033D7B6EF4745"
+  "version": "1.2.3",
+  "date": "2026-11-23",
+  "zip": "MilestoneMonitor-1.2.3.zip",
+  "size": 64374,
+  "sha256": "4D2A0D8A094C0C1C97C0BAFE20E7A628B42A2CDDEF086B10B6F3BB7C9B74BE1C"
 }
